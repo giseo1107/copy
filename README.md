@@ -8,3 +8,6 @@ This is a repository for studying backend.
  750f732d45a909f618f4d313f975ddfcd80dfc86
 
 example
+example
+no example
+example
